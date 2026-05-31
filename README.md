@@ -18,7 +18,7 @@ Ben, sadece `Hello World` yazanlardan değilim. İşe yarar, karmaşık ve bazen
 
 ## 🚀 Öne Çıkan Projelerim
 
-Burada, geliştirdiğim ~100 civarı projeden (40+’si açık kaynak) bazılarının detaylarını bulabilirsiniz.
+Burada, geliştirdiğim 100+ civarı projeden (40+’si açık kaynak) bazılarının detaylarını bulabilirsiniz.
 
 ### 🎮 [Halifelik Simülatörü]
 C++ ve Python ile geliştirdiğim, diplomasi, ekonomi ve strateji simülasyonunu temel alan karmaşık bir backend projesi. Sadece bir oyun değil, matematiksel sistemlerin bir simülasyonu.
